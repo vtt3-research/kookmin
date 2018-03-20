@@ -7,7 +7,8 @@
 ## 구조
 
 ### 문서
->update later
+  1. 오픈소스 라이센스 개요
+  2. 오픈소스 프로젝트 개발 방법론
 
 ## License
 >update later
